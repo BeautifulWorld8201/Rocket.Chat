@@ -37,7 +37,7 @@
 		]
 	},
 	"dependencies": {
-		"@bugsnag/react-native": "^7.10.5",
+		"@bugsnag/react-native": "^7.21.0",
 		"@codler/react-native-keyboard-aware-scroll-view": "^2.0.1",
 		"@gorhom/bottom-sheet": "^4.3.1",
 		"@hookform/resolvers": "^2.9.10",
