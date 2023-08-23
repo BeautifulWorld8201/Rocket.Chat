@@ -17510,10 +17510,10 @@ react-native-navigation-bar-color@2.0.1:
   resolved "https://registry.yarnpkg.com/react-native-navigation-bar-color/-/react-native-navigation-bar-color-2.0.1.tgz#ee2be25cc37105f7da355717b0a9a32c9c059ae6"
   integrity sha512-1kE/oxWt+HYjRxdZdvke9tJ365xaee5n3+euOQA1En8zQuSbOxiE4SYEGM7TeaWnmLJ0l37mRnPHaB2H4mGh0A==
 
-react-native-notifications@^4.3.3:
-  version "4.3.3"
-  resolved "https://registry.yarnpkg.com/react-native-notifications/-/react-native-notifications-4.3.3.tgz#5be05cb144127f4db518079dd202415af497dfcb"
-  integrity sha512-t7uPgpC93A4L41Jea2zet3BUqgh45gpN/ATS9gxejNH3r6kWgMdGeeZJhuMpl1gSXw1gcvgzdjzIjN7YZSOP0A==
+react-native-notifications@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-notifications/-/react-native-notifications-5.0.0.tgz#a6f8cead3372aa81aead50e9fc8bfac77d5b786d"
+  integrity sha512-QXtBBmbDtwq9X8WAPLn+OctIeEtnJOQ+RCT6iweaypvFTydt2baLPtawTAbCSXKuWpVDqDAdmZnlQjCcavNzoA==
 
 react-native-notifier@1.6.1:
   version "1.6.1"
