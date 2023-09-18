@@ -11003,10 +11003,10 @@ expo-modules-core@0.11.4:
     compare-versions "^3.4.0"
     invariant "^2.2.4"
 
-expo-video-thumbnails@6.3.0:
-  version "6.3.0"
-  resolved "https://registry.yarnpkg.com/expo-video-thumbnails/-/expo-video-thumbnails-6.3.0.tgz#07daa798ad175242fef4e62c8f2040b11606a41b"
-  integrity sha512-oVy9XlzNxnpXFDz3FiWOrMOBWmYtZrNYnXc3XaVyj8ayRqwDNvW4P95kQeUhB04uwaMDOm4vIxc5SQxDAyxPGg==
+expo-video-thumbnails@7.6.0:
+  version "7.6.0"
+  resolved "https://registry.yarnpkg.com/expo-video-thumbnails/-/expo-video-thumbnails-7.6.0.tgz#29486b4927a6c1a421d4fca3af79a7cddd102b9c"
+  integrity sha512-FujD8mX3VTrJ1TwibewblbIyCszw0ejB0PcXBervsj6ZtUknytsVlenug5bOOUSpuTL8gxFvr1Vw3F6FVdZing==
 
 expo-web-browser@10.2.1:
   version "10.2.1"
