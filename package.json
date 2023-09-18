@@ -78,7 +78,7 @@
 		"expo-haptics": "11.2.0",
 		"expo-keep-awake": "10.1.1",
 		"expo-local-authentication": "12.2.0",
-		"expo-video-thumbnails": "6.3.0",
+		"expo-video-thumbnails": "7.6.0",
 		"expo-web-browser": "10.2.1",
 		"hoist-non-react-statics": "3.3.2",
 		"i18n-js": "3.9.2",
