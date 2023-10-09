@@ -135,7 +135,7 @@
 		"react-native-ui-lib": "RocketChat/react-native-ui-lib#ef50151b8d9c1627ef527c620a1472868f9f4df8",
 		"react-native-vector-icons": "9.1.0",
 		"react-native-webview": "11.26.1",
-		"react-redux": "^8.0.5",
+		"react-redux": "^8.1.3",
 		"reactotron-react-native": "^5.0.3",
 		"redux": "4.2.0",
 		"redux-immutable-state-invariant": "2.1.0",
